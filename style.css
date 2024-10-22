@@ -1,6 +1,6 @@
 
 body{
-    background:url(Accueil-background.webp) no-repeat;
+    background:url(Images/Accueil-background.webp) no-repeat;
     background-size:cover;
     background-position: center;
     margin: 0;
@@ -30,7 +30,7 @@ body{
 }
 .logo {
   font-size: 32px;
-  color:white;
+  color:seagreen;
   text-decoration: none;
   font-weight:700;
 }
@@ -38,7 +38,7 @@ body{
 .navbar a {
   position: relative;
   font-size:15px;
-  color:white;
+  color:seagreen;
   font-weight:500;
   text-decoration:none;
   margin-left:40px;
