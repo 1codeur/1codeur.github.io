@@ -1,5 +1,5 @@
 body{
-  background-color:black;
+  background-color: black;
   background-size:cover;
   background-position: center;
   margin: 0;
@@ -78,7 +78,36 @@ width:100%;
   left: 2%;
   color: white;
   padding: 5px;
+  font-size:12px;
+  font-weight:bold;
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.7), 0 0 10px rgba(255, 255, 255, 0.7 );
 }
 
+.texte{
+  color:white;
+  position: relative;
+  width:45%;
+  text-align: justify;
+  left: 25%;
+  margin-top: -20%;
+}
 
+h2{
+  display:inline-block;
+  position:relative;
+  color:white;
+  top: 150px;
+  left:40%;
+  text-align:center;
+  margin-top:0%;
+}
 
+.savoir{
+  position:relative;
+  color:white;
+  margin-right:3%;
+  top: -15px;
+  text-align:center;
+  text-shadow: 
+        0 0 10px rgba(255, 255, 255, 1), 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.5);
+}
