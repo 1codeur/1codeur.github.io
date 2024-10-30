@@ -111,3 +111,28 @@ h2{
   text-shadow: 
         0 0 10px rgba(255, 255, 255, 1), 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.5);
 }
+
+.connaissance{
+  position:relative;
+  color:white;
+  text-align: center;
+  margin-left:75%;
+  margin-top:-5%;
+}
+.connaissance li {
+  margin-bottom:50px;
+  border-style:solid;
+  font-weight:bold;
+  font-size: 24px;
+  list-style-type: none;
+  transition: border-color 1s ease;
+  transition: background-color 1s ease;
+}
+.connaissance a{
+  color:inherit;
+  text-decoration:none;
+}
+.connaissance li:hover{
+  border-color: seagreen;
+  background-color: seagreen;
+}
