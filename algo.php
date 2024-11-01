@@ -1,0 +1,1 @@
+La première lettre est: A
