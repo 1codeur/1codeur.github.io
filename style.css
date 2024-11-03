@@ -217,3 +217,28 @@ h2{
   margin-top:-3%;
   margin-left: 32%;
 }
+
+.reponse{
+  color:white;
+  width:200%;
+  font-size:50px;
+  margin-top: 15%;
+  margin-left:2%;
+}
+
+.joker{
+  position:absolute;
+  width:10%;
+  margin-left:42%;
+  margin-top:5%;
+}
+
+.biographie{
+  position: absolute;
+  font-size:28px;
+  color: red; 
+  text-align: center;
+  text-decoration: none;
+  margin-left:41%;
+  margin-top:20%;
+}
